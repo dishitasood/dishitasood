@@ -1,6 +1,6 @@
 ## HI!
 
-<h1 align="center">I'm Dishita Sood</h1>
+<h1 align="center">**Hello! I'm Dishita Sood**</h1>
 <h3 align="center">Computer Science Student | ML Engineer |
 Building intelligent systems with Python, FastAPI, and Machine Learning</h3>
 

@@ -1,7 +1,8 @@
-## Hi there 👋
+## HI!
 
 <h1 align="center">Hi 👋, I'm Dishita Sood</h1>
-<h3 align="center">A passionate AI/ML enthusiast.</h3>
+<h3 align="center">Computer Science Student | ML Engineer |
+Building intelligent systems with Python, FastAPI, and Machine Learning</h3>
 
 - 🔭 I’m currently working on **Intelligent Mortgage Document Processing Pipeline with RAG**
 

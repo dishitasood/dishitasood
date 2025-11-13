@@ -14,7 +14,7 @@ Building intelligent systems with Python, FastAPI, and Machine Learning</h3>
 
 - 📫 How to reach me **dishitasood23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OftnzYuZaQR4Ev4KReMFOQ8kUxwVOYUS/view?usp=sharing](https://drive.google.com/file/d/1OftnzYuZaQR4Ev4KReMFOQ8kUxwVOYUS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OftnzYuZaQR4Ev4KReMFOQ8kUxwVOYUS/view?usp=sharing](https://drive.google.com/file/d/117BUluVOlaXOYWLzS6XOE6RnBzMILTzC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
